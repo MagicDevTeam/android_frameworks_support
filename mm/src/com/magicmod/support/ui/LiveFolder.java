@@ -68,7 +68,7 @@ public class LiveFolder {
         public static final String EXISTING_FOLDER_IDS_EXTRA = "existing_folder_ids";
 
         private static final String LAUNCHER_PERMISSION =
-                "com.magicmod.chaoslauncher.permission.MANAGE_LIVE_FOLDERS";
+                "com.magicmod.mmlauncher.permission.MANAGE_LIVE_FOLDERS";
     }
 
     /**
